@@ -1,0 +1,14 @@
+C:\Users\NEVERMIND\source\repos\Windowmaneger\bin\Debug\net9.0\Windowmaneger.exe
+C:\Users\NEVERMIND\source\repos\Windowmaneger\bin\Debug\net9.0\Windowmaneger.deps.json
+C:\Users\NEVERMIND\source\repos\Windowmaneger\bin\Debug\net9.0\Windowmaneger.runtimeconfig.json
+C:\Users\NEVERMIND\source\repos\Windowmaneger\bin\Debug\net9.0\Windowmaneger.dll
+C:\Users\NEVERMIND\source\repos\Windowmaneger\bin\Debug\net9.0\Windowmaneger.pdb
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.AssemblyInfoInputs.cache
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.AssemblyInfo.cs
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.csproj.CoreCompileInputs.cache
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.dll
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\refint\Windowmaneger.dll
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.pdb
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.genruntimeconfig.cache
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\ref\Windowmaneger.dll
