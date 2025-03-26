@@ -12,3 +12,4 @@ C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\refint\Windowmane
 C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.pdb
 C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.genruntimeconfig.cache
 C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\ref\Windowmaneger.dll
+C:\Users\NEVERMIND\source\repos\Windowmaneger\obj\Debug\net9.0\Windowmaneger.sourcelink.json
